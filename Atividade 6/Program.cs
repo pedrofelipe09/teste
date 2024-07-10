@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Atividade_6;
+
+Menu menu= new Menu();
+menu.ExibirMenu();
